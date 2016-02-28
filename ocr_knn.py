@@ -7,8 +7,11 @@ Luis Alberto Muñoz Cruz
 Rafael Martinez Rocha
 """
 
+#Libreria para el manejo de archivos .csv
 import csv
+#Libreria pqra la creacion de formulas matematicas
 import math
+#Importación de clase ocr_datset para la obtención de caracteristicas
 import ocr_dataset as ocrds
 
 #Nombre:nuevaInstanciaK
